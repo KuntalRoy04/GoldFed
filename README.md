@@ -1,2 +1,6 @@
 # GoldFed
 GoldFed: A Federated Multimodal Deep Learning Framework for Global Gold Stock Price Prediction with Privacy-Preserving Market Intelligence
+
+Accurately forecasting gold prices is challenging due to the dynamic global economy and the limitations of conventional models relying on centralized data, which often miss regional trends and individual market behaviors. Privacy concerns also restrict data sharing among institutions. To address this, we propose a federated learning-based solution where banks, exchanges, and trading platforms collaboratively train a shared model without exposing raw data. Each entity trains locally, and updates are aggregated centrally with differential privacy and secure aggregation for confidentiality. The model integrates multimodal data—historical prices, inflation rates, financial news sentiment (analyzed via FinBERT), social media, and economic indicators—enhancing predictive accuracy. Meta-learning (MAML) tailors predictions to regional markets (India vs. US), while real-time updates adapt to economic or geopolitical shifts. This approach delivers a secure, adaptive, and precise gold price forecasting system across diverse financial contexts.
+
+FOR THE DATASET YOU CAN CONTACT ME AT roykuntal47@gmail.com
